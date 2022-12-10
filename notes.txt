@@ -1,0 +1,16 @@
+
+rock
+paper
+scissors
+
+upgrade (goes up the list)
+downgrade (goes down the list)
+stay (stay there)
+
+WU
+WD
+WS
+
+LU
+LD
+LS
